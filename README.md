@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Sometimes, I code. I've worked extensively with C, Java, Python, JavaScript and TypeScript. I'm always learning; currently focusing on learning React, Ruby and a little bit of GKE. 
 
-Learn more at (kanzash.github.io)[kanzash.github.io]
+Learn more at [kanzash.github.io](kanzash.github.io)
