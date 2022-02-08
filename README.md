@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Sometimes, I code. I've worked extensively with C, Java, Python, JavaScript and TypeScript. I'm always learning
-
-Learn more at [kanzash.github.io](kanzash.github.io)
+Sometimes, I code. 
